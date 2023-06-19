@@ -121,4 +121,10 @@ font-family: var(--font-primaria);
     .apresentacao__conteudo {
         width: auto;
     }
+ .cabecalho__menu {
+  gap: 50px;
+ } 
+
+ 
+ 
 }
